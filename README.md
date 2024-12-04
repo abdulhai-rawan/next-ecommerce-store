@@ -6,7 +6,7 @@ The backend side of this project handles the CMS/admin dashboard, built with Pri
 
 **Backend Repository:** [View Here](https://github.com/abdulhai-rawan/next-ecommerce-admin)  
 
-## [Demo](https://next-ecommerce-store-delta.vercel.app/)  
+## [Demo](https://next-ecommerce-store-app.vercel.app/)  
 
 ## Screenshots
 ![Project Screenshot](https://raw.githubusercontent.com/abdulhai-rawan/next-ecommerce-store/refs/heads/master/public/screenshots/1.png)
