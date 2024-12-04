@@ -4,7 +4,7 @@ This is the **frontend/website side** of a full-stack eCommerce project, offerin
 
 The backend side of this project handles the CMS/admin dashboard, built with Prisma, MySQL, and a RESTful API. You can find the backend repository here:  
 
-**Backend Repository:** [View Here](Backend Repo URL)  
+**Backend Repository:** [View Here](https://github.com/abdulhai-rawan/next-ecommerce-admin)  
 
 ## [Demo](https://next-ecommerce-store-delta.vercel.app/)  
 
