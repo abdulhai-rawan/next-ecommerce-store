@@ -8,7 +8,12 @@ The backend side of this project handles the CMS/admin dashboard, built with Pri
 
 ## [Demo](https://next-ecommerce-store-delta.vercel.app/)  
 
-![Project Screenshot](https://raw.githubusercontent.com/abdulhai-rawan/next-ecommerce-store/refs/heads/master/public/Screenshot%202024-12-03%20143556.png)  
+## Screenshots
+![Project Screenshot](https://raw.githubusercontent.com/abdulhai-rawan/next-ecommerce-store/refs/heads/master/public/screenshots/1.png)
+![Project Screenshot](https://raw.githubusercontent.com/abdulhai-rawan/next-ecommerce-store/refs/heads/master/public/screenshots/2.png)
+![Project Screenshot](https://raw.githubusercontent.com/abdulhai-rawan/next-ecommerce-store/refs/heads/master/public/screenshots/3.png)
+![Project Screenshot](https://raw.githubusercontent.com/abdulhai-rawan/next-ecommerce-store/refs/heads/master/public/screenshots/4.png)
+![Project Screenshot](https://raw.githubusercontent.com/abdulhai-rawan/next-ecommerce-store/refs/heads/master/public/screenshots/5.png)
 
 ---
 
@@ -19,13 +24,6 @@ The backend side of this project handles the CMS/admin dashboard, built with Pri
 - **Dynamic Content**: Fetches product details and categories dynamically.  
 - **Optimized Performance**: Built with Next.js for seamless navigation and speed.  
 - **Integration with Backend**: Relies on a robust backend API for data and admin functionality.  
-
----
-
-## Credits  
-
-**Instructor Name:** Antonio Erdeljac  
-**Video Tutorial:** [Watch here](https://www.youtube.com/watch?v=5miHyP6lExg)  
 
 ---
 
@@ -146,3 +144,8 @@ Contributions are welcome! If you have any suggestions or improvements, please:
 ## License  
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+
+---
+
+## Credits  
+Special thanks to [CodeWithAntonio](https://github.com/AntonioErdeljac) for this project ⭐
